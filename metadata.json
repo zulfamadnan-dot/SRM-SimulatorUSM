@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Rocket Motor Sim1",
+  "description": "A solid rocket motor ballistic analysis tool that calculates propellant geometry evolution, chamber volumes, and Kn ratios.",
+  "requestFramePermissions": []
+}
